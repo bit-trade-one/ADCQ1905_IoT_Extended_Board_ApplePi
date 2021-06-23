@@ -26,6 +26,8 @@
 
 ## [製品ページ](https://bit-trade-one.co.jp/adcq1905/)
 
+## [ソフトウェア・回路図(トランジスタ技術のサイト)](https://toragi.cqpub.co.jp/tabid/807/Default.aspx)
+
 ## 製品仕様
 
 【対応OS】Raspbian  
