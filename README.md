@@ -26,7 +26,7 @@
 
 ## [製品ページ](https://bit-trade-one.co.jp/adcq1905/)
 
-## [ソフトウェア・回路図(トランジスタ技術のサイト)](https://toragi.cqpub.co.jp/tabid/807/Default.aspx)
+## [ソフトウェア・回路図(トランジスタ技術のサイト)](https://toragi.cqpub.co.jp/tabid/807/Default.html)
 
 ## 製品仕様
 
