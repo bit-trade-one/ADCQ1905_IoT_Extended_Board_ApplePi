@@ -28,6 +28,8 @@
 
 ## [ソフトウェア・回路図(トランジスタ技術のサイト)](https://toragi.cqpub.co.jp/tabid/807/Default.html)
 
+## [Q&A](https://github.com/bit-trade-one/ADCQ1905_IoT_Extended_Board_ApplePi/blob/master/FAQ.md)
+
 ## 製品仕様
 
 【対応OS】Raspbian  
